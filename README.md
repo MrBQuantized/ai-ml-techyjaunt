@@ -1,4 +1,4 @@
-# 🤖 AI & Machine Learning — TechyJaunt Cohort 2
+# 🤖 AI & Machine Learning — TechyJaunt Cohort 8
 
 > **Program:** AI/ML Training
 > **Provider:** TechyJaunt
