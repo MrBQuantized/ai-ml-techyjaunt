@@ -29,6 +29,6 @@ venv/
 .ipynb_checkpoints/
 
 # Ignore specific files
-911.csv
+Notes/My_Notes/911.csv
 progress.md
 README.md
