@@ -1,7 +1,7 @@
 # Ignore lecture notes
-lecLecture and Assignment/
+Lecture and Assignment/
 
-# Igonre temporary  
+# Ignore temporary  
 *.tmp
 
 # Ignore PDFs
