@@ -1,0 +1,26 @@
+# Ignore lecture notes
+lecLecture and Assignment/
+
+# Igonre temporary  
+*.tmp
+
+# Ignore PDFs
+*.pdf
+
+# Ignore Word Documents
+*.docx
+
+# Ignore PowerPoint files
+*.pptx
+
+# Ignore large datasets
+Data/RAW/
+
+# Ignore cache
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
