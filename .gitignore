@@ -14,7 +14,10 @@ lecLecture and Assignment/
 *.pptx
 
 # Ignore large datasets
-Data/RAW/
+Datasets/RAW/
+
+# Ignore other datasets
+*.csv
 
 # Ignore cache
 __pycache__/
@@ -24,3 +27,8 @@ venv/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore specific files
+911.csv
+progress.md
+README.md
