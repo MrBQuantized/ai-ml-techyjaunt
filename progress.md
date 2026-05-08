@@ -22,9 +22,9 @@
 
 | Module | Title | Hours | Status | Completion Date | Notes |
 |---|---|---|---|---|---|
-| 01 | Introduction to AI & ML | 3 hrs | ⬜ | — | |
-| 02 | Python for Machine Learning | 4 hrs | ⬜ | — | |
-| 03 | Data: Understanding & Preparation | 4 hrs | ⬜ | — | |
+| 01 | Introduction to AI & ML | 3 hrs | ✅ | — | |
+| 02 | Python for Machine Learning | 4 hrs | ✅ | — | |
+| 03 | Data: Understanding & Preparation | 4 hrs | ✅ | — | |
 
 ### Phase 2 — Core ML Algorithms
 
