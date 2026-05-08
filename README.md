@@ -2,7 +2,8 @@
 
 > **Program:** AI/ML Training
 > **Provider:** TechyJaunt
-> **Cohort:** 2
+> **Cohort:** 8
+
 > **Status:** 🟢 Active
 
 ---
