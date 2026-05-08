@@ -32,3 +32,66 @@ venv/
 Notes/My_Notes/911.csv
 progress.md
 README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Conda
+*.conda
+
+# Data files (large or sensitive — use Kaggle/public URLs instead)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+!sample_data/*.csv
+!sample_data/*.json
+
+# Model files (can be large)
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.onnx
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Secrets / API keys
+.env
+secrets.json
+credentials.json
