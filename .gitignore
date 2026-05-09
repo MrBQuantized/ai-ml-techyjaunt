@@ -14,7 +14,7 @@
 *.pptx
 
 # Ignore large datasets
-DATASETS/RAW/
+03_DATASETS/RAW/
 
 # Ignore other datasets
 *.csv
@@ -29,7 +29,7 @@ venv/
 .ipynb_checkpoints/
 
 # Ignore specific files
-Notes/My_Notes/911.csv
+02_NOTES/My_Notes/911.csv
 progress.md
 README.md
 
