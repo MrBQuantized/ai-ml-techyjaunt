@@ -1,5 +1,5 @@
 # Ignore lecture notes
-Lecture and Assignment/
+03_NOTES/Lecture_Notes/
 
 # Ignore temporary  
 *.tmp
@@ -14,7 +14,7 @@ Lecture and Assignment/
 *.pptx
 
 # Ignore large datasets
-Datasets/RAW/
+DATASETS/RAW/
 
 # Ignore other datasets
 *.csv
