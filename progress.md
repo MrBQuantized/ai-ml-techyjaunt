@@ -1,4 +1,4 @@
-# 📈 Progress Tracker — TechyJaunt AI/ML Cohort 2
+# 📈 Progress Tracker — TechyJaunt AI/ML Cohort 8
 
 > **Legend:** ⬜ Not Started · 🔄 In Progress · ✅ Complete · ⏸️ Paused
 
@@ -8,7 +8,7 @@
 
 | Item | Info |
 |---|---|
-| Program | TechyJaunt Cohort 2 — AI/ML |
+| Program | TechyJaunt Cohort 8 — AI/ML |
 | Curriculum | Anadata Technologies 2025 Edition |
 | Start Date | _(fill in)_ |
 | Target Completion | _(fill in)_ |
@@ -22,9 +22,9 @@
 
 | Module | Title | Hours | Status | Completion Date | Notes |
 |---|---|---|---|---|---|
-| 01 | Introduction to AI & ML | 3 hrs | ⬜ | — | |
-| 02 | Python for Machine Learning | 4 hrs | ⬜ | — | |
-| 03 | Data: Understanding & Preparation | 4 hrs | ⬜ | — | |
+| 01 | Introduction to AI & ML | 3 hrs | ✅ | — | |
+| 02 | Python for Machine Learning | 4 hrs | ✅ | — | |
+| 03 | Data: Understanding & Preparation | 4 hrs | ✅ | — | |
 
 ### Phase 2 — Core ML Algorithms
 
