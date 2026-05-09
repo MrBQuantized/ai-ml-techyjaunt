@@ -167,7 +167,7 @@ Simultaneously enrolled in:
 
 Find my other learning repos:
 - [`ibm-data-analytics`](https://github.com/MrBQuantized/ibm-data-analytics)
-- [`techcrush-data-science`](https://github.com/MrBQuantized/techcrush-data-science)
+- [`data-science-techcrush`](https://github.com/MrBQuantized/data-science-techcrush)
 - [`data-science-projects`](https://github.com/MrBQuantized/data-science-projects)
 
 ---
