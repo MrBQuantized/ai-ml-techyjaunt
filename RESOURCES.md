@@ -1,4 +1,4 @@
-# 📚 Resources — TechyJaunt AI/ML Cohort 2
+# 📚 Resources — TechyJaunt AI/ML Cohort 8
 
 > Curated supplementary materials organized by module. All free resources marked 🆓.
 
