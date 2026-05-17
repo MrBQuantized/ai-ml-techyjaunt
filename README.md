@@ -18,7 +18,27 @@ I'm a **Physics graduate** from FUTO transitioning into the AI/ML and Data Scien
 ## 🗂️ Repository Structure
 
 ```
-
+ai-ml-techyjaunt/
+│
+├── 01_module-intro-to-ai/
+├── 02_module-python-for-ml/
+├── 03_module-data-preparation/
+├── 04_module-supervised-regression/
+├── 05_module-supervised-classification/
+├── 06_module-unsupervised-learning/
+├── 07_module-model-evaluation/
+├── 08_module-neural-networks/
+├── 09_module-responsible-ai/
+├── 10_capstone-project/
+│
+├── datasets/                      # All datasets used in the program
+├── assets/                        # Images, diagrams, certificates
+│
+├── PROGRESS.md                    # Live module progress tracker
+├── CURRICULUM.md                  # Full curriculum reference
+├── RESOURCES.md                   # Curated supplementary resources by module
+├── .gitignore                     # Git ignore rules
+└── README.md                      # This file
 ```
 
 Each module folder follows this internal layout:
