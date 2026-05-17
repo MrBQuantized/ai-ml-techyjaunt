@@ -9,7 +9,7 @@
 
 ## 📌 About This Repository
 
-This repository documents my end-to-end learning journey through the **TechyJaunt Cohort 2 AI/ML program** — a beginner-to-intermediate machine learning and artificial intelligence curriculum delivered by Anadata Technologies.
+This repository documents my end-to-end learning journey through the **TechyJaunt Cohort 8 AI/ML program** — a beginner-to-intermediate machine learning and artificial intelligence curriculum delivered by Anadata Technologies.
 
 I'm a **Physics graduate** from FUTO transitioning into the AI/ML and Data Science space. This repo holds all my notes, hands-on lab work, assignments, quizzes, and capstone project for this program.
 
@@ -18,26 +18,7 @@ I'm a **Physics graduate** from FUTO transitioning into the AI/ML and Data Scien
 ## 🗂️ Repository Structure
 
 ```
-ai-ml-techyjaunt/
-│
-├── 01_module-intro-to-ai/          # Module 1 — Introduction to AI & ML (3 hrs)
-├── 02_module-python-for-ml/        # Module 2 — Python for Machine Learning (4 hrs)
-├── 03_module-data-preparation/     # Module 3 — Data Understanding & Preparation (4 hrs)
-├── 04_module-supervised-regression/# Module 4 — Supervised Learning: Regression (4 hrs)
-├── 05_module-supervised-classification/ # Module 5 — Classification (4 hrs)
-├── 06_module-unsupervised-learning/# Module 6 — Unsupervised Learning (4 hrs)
-├── 07_module-model-evaluation/     # Module 7 — Model Evaluation & Improvement (4 hrs)
-├── 08_module-neural-networks/      # Module 8 — Introduction to Neural Networks (5 hrs)
-├── 09_module-responsible-ai/       # Module 9 — Responsible AI & Ethics (3 hrs)
-├── 10_capstone-project/            # Module 10 — Capstone Project & Deployment (5 hrs)
-│
-├── resources/                      # Supplementary reading, links, references
-├── notes/                          # Personal notes and summaries per module
-├── assets/                         # Images, diagrams, certificates
-│
-├── PROGRESS.md                     # Live progress tracker
-├── CURRICULUM.md                   # Full curriculum reference
-└── README.md                       # This file
+
 ```
 
 Each module folder follows this internal layout:
@@ -168,7 +149,6 @@ Simultaneously enrolled in:
 Find my other learning repos:
 - [`ibm-data-analytics`](https://github.com/MrBQuantized/ibm-data-analytics)
 - [`data-science-techcrush`](https://github.com/MrBQuantized/data-science-techcrush)
-- [`data-science-projects`](https://github.com/MrBQuantized/data-science-projects)
 
 ---
 
@@ -181,5 +161,5 @@ My original code, notes, and projects are under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <sub>Built with curiosity ⚡ | OnohLabs · 2025</sub>
+  <sub>Built with curiosity ⚡ | OnohLabs · 2026</sub>
 </div>
