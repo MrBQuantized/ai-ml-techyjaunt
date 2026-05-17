@@ -117,4 +117,4 @@
 
 ---
 
-_Last updated: 2025_
+_Last updated: 2026_
