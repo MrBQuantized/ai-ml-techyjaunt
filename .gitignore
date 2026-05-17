@@ -57,3 +57,8 @@ credentials.json
 
 # Tutor lecture notebooks
 **/lectures/*.ipynb
+
+# Allow own assignment submissions
+!**/assignment/*.pdf
+!**/assignment/*.docx
+!**/assignment/*.ipynb
