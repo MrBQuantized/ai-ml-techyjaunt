@@ -1,4 +1,4 @@
-# 🤖 AI & Machine Learning — TechyJaunt Cohort 8
+# 🤖 AI & Machine Learning — TechyJaunt Cohort 2
 
 > **Program:** AI/ML Training
 > **Provider:** TechyJaunt
@@ -45,9 +45,9 @@ Each module folder follows this internal layout:
 
 ```
 0X_module-name/
-├── notes.md          # Lecture/video notes
+├── lectures/         # Tutor-provided materials (slides, notebooks)
+├── my_notes.md       # My personal notes and annotations
 ├── lab/              # Hands-on lab notebooks and scripts
-│   └── lab_XX.ipynb
 ├── quiz/             # Quiz answers or reflections
 └── assignment/       # Written or code assignments (where applicable)
 ```
@@ -69,7 +69,7 @@ Each module folder follows this internal layout:
 | 09 | Responsible AI & Ethics | 3 hrs | ⬜ Not Started |
 | 10 | Capstone Project & Deployment | 5 hrs | ⬜ Not Started |
 
-**Total: 10 Modules · 40 Hours**  
+**Total: 10 Modules · 40 Hours**
 *(Update statuses in `PROGRESS.md` as you go)*
 
 ---
@@ -158,8 +158,8 @@ The capstone (Module 10) covers the full ML pipeline:
 
 ## 👤 About Me
 
-**Onoh Blessing Obasi** · @MrBQuantized  
-Physics Graduate · FUTO | Transitioning to AI/ML & Data Science  
+**Onoh Blessing Obasi** · @MrBQuantized
+Physics Graduate · FUTO | Transitioning to AI/ML & Data Science
 
 Simultaneously enrolled in:
 - 🎓 **TechyJaunt Cohort 8** — AI/ML *(this repo)*
@@ -174,8 +174,8 @@ Find my other learning repos:
 
 ## 📜 License
 
-This repository is for personal educational documentation purposes.  
-Curriculum content © 2025 Anadata Technologies. All rights reserved.  
+This repository is for personal educational documentation purposes.
+Curriculum content © 2025 Anadata Technologies. All rights reserved.
 My original code, notes, and projects are under the [MIT License](LICENSE).
 
 ---
