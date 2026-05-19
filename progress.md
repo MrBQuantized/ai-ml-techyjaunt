@@ -30,8 +30,8 @@
 
 | Module | Title | Hours | Status | Completion Date | Notes |
 |---|---|---|---|---|---|
-| 04 | Supervised Learning — Regression | 4 hrs | ⬜ | — | |
-| 05 | Supervised Learning — Classification | 4 hrs | ⬜ | — | |
+| 04 | Supervised Learning — Regression | 4 hrs | ✅ | — | |
+| 05 | Supervised Learning — Classification | 4 hrs | ✅ | — | |
 | 06 | Unsupervised Learning | 4 hrs | ⬜ | — | |
 
 ### Phase 3 — Advanced Topics
