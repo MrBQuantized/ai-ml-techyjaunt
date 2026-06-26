@@ -62,3 +62,7 @@ credentials.json
 !**/assignment/*.pdf
 !**/assignment/*.docx
 !**/assignment/*.ipynb
+
+# Folders to ignore
+mini-projects/capstone/miscellanous/
+

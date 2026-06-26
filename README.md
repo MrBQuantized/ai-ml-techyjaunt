@@ -48,7 +48,6 @@ Each module folder follows this internal layout:
 ├── lectures/         # Tutor-provided materials (slides, notebooks)
 ├── my_notes.md       # My personal notes and annotations
 ├── lab/              # Hands-on lab notebooks and scripts
-├── quiz/             # Quiz answers or reflections
 └── assignment/       # Written or code assignments (where applicable)
 ```
 
