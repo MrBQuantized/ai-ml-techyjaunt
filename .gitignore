@@ -64,5 +64,5 @@ credentials.json
 !**/assignment/*.ipynb
 
 # Folders to ignore
-mini-projects/capstone/miscellanous/
+assets/miscellaneous/
 
