@@ -35,6 +35,7 @@ ai-ml-techyjaunt/
 ├── assets/                        # Images, diagrams, certificates
 │
 ├── PROGRESS.md                    # Live module progress tracker
+├── MODULE_NOTES_TEMPLATES.md      # Structure for module note-taking
 ├── CURRICULUM.md                  # Full curriculum reference
 ├── RESOURCES.md                   # Curated supplementary resources by module
 ├── .gitignore                     # Git ignore rules
