@@ -32,14 +32,14 @@
 |---|---|---|---|---|---|
 | 04 | Supervised Learning — Regression | 4 hrs | ✅ | — | |
 | 05 | Supervised Learning — Classification | 4 hrs | ✅ | — | |
-| 06 | Unsupervised Learning | 4 hrs | ⬜ | — | |
+| 06 | Unsupervised Learning | 4 hrs | ✅ | — | |
 
 ### Phase 3 — Advanced Topics
 
 | Module | Title | Hours | Status | Completion Date | Notes |
 |---|---|---|---|---|---|
-| 07 | Model Evaluation & Improvement | 4 hrs | ⬜ | — | |
-| 08 | Introduction to Neural Networks | 5 hrs | ⬜ | — | |
+| 07 | Model Evaluation & Improvement | 4 hrs | ✅ | — | |
+| 08 | Introduction to Neural Networks | 5 hrs | ✅ | — | |
 
 ### Phase 4 — Ethics & Deployment
 
@@ -51,19 +51,6 @@
 ---
 
 ## 📝 Assessments
-
-### Quizzes
-
-| Quiz | Module | Score | Date |
-|---|---|---|---|
-| Quiz 1 | Module 1 | — | — |
-| Quiz 2 | Module 2 | — | — |
-| Quiz 3 | Module 4 | — | — |
-| Quiz 4 | Module 5 | — | — |
-| Quiz 5 | Module 6 | — | — |
-| Quiz 6 | Module 7 | — | — |
-| Quiz 7 | Module 8 | — | — |
-| Quiz 8 | Module 9 | — | — |
 
 ### Labs
 
@@ -82,7 +69,10 @@
 
 | Assignment | Description | Status | Score | Date |
 |---|---|---|---|---|
-| Mid-Course Assignment | Data prep + model building | ⬜ | — | — |
+| Mid-Course Assignment | Applications of AI | ⬜ | — | — |
+| Mid-Course Assignment | Conda Environment Setup & Python Libraries | ⬜ | — | — |
+| Mid-Course Assignment | Regression | ⬜ | — | — |
+| Mid-Course Assignment | Regression & Classification | ⬜ | — | — |
 | Capstone Project | End-to-end ML + deployment | ⬜ | — | — |
 
 ---
@@ -91,7 +81,6 @@
 
 | Component | Max | Earned | % |
 |---|---|---|---|
-| Quizzes (20%) | 20 | — | — |
 | Lab Reports (30%) | 30 | — | — |
 | Mid-Course Assignment (20%) | 20 | — | — |
 | Capstone Project (30%) | 30 | — | — |

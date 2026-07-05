@@ -35,7 +35,6 @@ ai-ml-techyjaunt/
 ├── assets/                        # Images, diagrams, certificates
 │
 ├── PROGRESS.md                    # Live module progress tracker
-├── MODULE_NOTES_TEMPLATES.md      # Structure for module note-taking
 ├── CURRICULUM.md                  # Full curriculum reference
 ├── RESOURCES.md                   # Curated supplementary resources by module
 ├── .gitignore                     # Git ignore rules
@@ -47,7 +46,6 @@ Each module folder follows this internal layout:
 ```
 0X_module-name/
 ├── lectures/         # Tutor-provided materials (slides, notebooks)
-├── my_notes.md       # My personal notes and annotations
 ├── lab/              # Hands-on lab notebooks and scripts
 └── assignment/       # Written or code assignments (where applicable)
 ```
