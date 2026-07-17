@@ -109,7 +109,14 @@
 ## Module 6 — Unsupervised Learning (4 hrs)
 
 ### Topics
-- What is unsupervised learning? No labeled data
+- What is unsupervised learning? No labeled data# Encode days of the week
+final_frame = pd.get_dummies(
+    final_frame,
+    columns=['day_of_week'],
+    dtype=int
+)
+
+
 - Clustering: K-Means algorithm step by step
 - Choosing the right K: Elbow method
 - Dimensionality reduction: PCA intuition and use cases
